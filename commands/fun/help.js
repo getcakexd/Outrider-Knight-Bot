@@ -72,7 +72,7 @@ function createModHelpEmbed() {
                 value: 'Adds the chosen role to the tagged member'
             },
             {
-                name: `/role-add`,
+                name: `/role-remove`,
                 value: 'Removes the chosen role from the tagged member'
             },
             {
